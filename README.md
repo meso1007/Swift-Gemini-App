@@ -14,3 +14,8 @@
 
 ## **今後の展望**
 #### 今回は試験的に生成AIを使ってみた為、かなりシンプルなプロダクトになってしまった。今後はText-to-SpeechやSpeech-to-Textを用いて、対話型のAIアプリの開発を考えている。
+
+## **参考文献**
+####[ https://github.com/google/generative-ai-swift](https://github.com/google/generative-ai-swift)https://github.com/google/generative-ai-swift
+
+
