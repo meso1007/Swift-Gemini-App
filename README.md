@@ -1,20 +1,19 @@
-## **サービスのURL** 
-#### 今後トライアル版を実装予定
 
-## **サービスへの想い** 
-#### 私は現在学生をしております。その中でGPTを使う機会が多いのですが、金銭面的にGPT4への課金はできず最適な返答が帰ってことが多々ありました。そんな中Google gemini　aiは無料でGPT4と同等の返答が返ってくることを知り日本語用のGeminiアプリを開発しました。
+Service URL
+Trial version implementation planned for the future
+Thoughts on the Service
+I am currently a student, and I frequently use GPT for various purposes. However, due to financial constraints, I am unable to subscribe to GPT-4, leading to instances where I do not receive the optimal responses. In such situations, upon learning about Google Gemini AI, which provides responses equivalent to GPT-4 for free, I decided to develop a Japanese Gemini app.
+Image Illustration
+<img src="https://drive.google.com/file/d/1Nq86LICvnR_IvxsrVyfOYgm_k35JEnUM/view?usp=drive_link" width="300" height="700">
+How to Use
+1. Launch the app.
+2. Pose a question to the AI.
+3. Receive the response.
+Future Prospects
+This time, I experimented with using generative AI, resulting in a rather simple product. In the future, I plan to develop interactive AI apps using Text-to-Speech and Speech-to-Text functionalities.
+References
+https://github.com/google/generative-ai-swift
 
-## **イメージ画像** 
-#### <img src="https://drive.google.com/file/d/1Nq86LICvnR_IvxsrVyfOYgm_k35JEnUM/view?usp=drive_link" width="300" height="700">
-## **使用方法**
-#### 1. アプリを起動する
-#### 2. AIに質問を投げる
-#### 3. 回答が返ってくる
 
-## **今後の展望**
-#### 今回は試験的に生成AIを使ってみた為、かなりシンプルなプロダクトになってしまった。今後はText-to-SpeechやSpeech-to-Textを用いて、対話型のAIアプリの開発を考えている。
-
-## **参考文献**
-#### [ https://github.com/google/generative-ai-swift](https://github.com/google/generative-ai-swift)https://github.com/google/generative-ai-swift]
 
 
